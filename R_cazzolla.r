@@ -69,4 +69,16 @@ c[is.na(c)] <- 0
 
 #whittaker plot/ rango-abb
 
+#curva di accumulazione
+#modello vs dato preciso - curva smooth vs a zigzag
 
+#curve ABC 
+
+id2 <- "/1_1PV-y7J8v2nS09B3OVL1ImNK_7U8J20"
+
+
+
+id3 <- "1lvIWwepprZ0I41RTEwhGjLek98rU3lne"
+
+View(d)
+View(e)
